@@ -84,7 +84,7 @@
 }
 .service_button-container {
   display: flex;
-  overflow-x: scroll;
+  overflow-x: hidden;
   flex-direction: row;
   white-space: nowrap;
   padding: 0px 0px 0px 24px;
