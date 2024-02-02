@@ -172,6 +172,11 @@
 .button-container__button-review {
   display: none;
 }
+.service_lastpicture img {
+    
+    
+    border-radius: 8px;
+}
 @media (min-width: 321px) {
   .service {
     width: 768px;
